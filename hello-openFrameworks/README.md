@@ -1,6 +1,6 @@
 # hello-openFrameworks
 
-This example is based on [madelinegannon](https://github.com/madelinegannon)'s [example-mediapipe-udp](https://github.com/madelinegannon/example-mediapipe-udp).
+This example is based on [madelinegannon](https://github.com/madelinegannon)'s [example-mediapipe-udp](https://github.com/madelinegannon/example-mediapipe-udp) and should go with [hello-mediapipe-cpp](../hello-mediapipe-cpp).
 
 ![hand tracking gif](assets/hello-my-hand.gif)
 
